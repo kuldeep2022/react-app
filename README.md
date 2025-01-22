@@ -1,9 +1,8 @@
 # Task List
 
-[1]. **[Create Sign Up Page]**  
- _Assigned to: [Vishal]_
-[2]. **[Create Log In Page]**  
- _Assigned to: [Vishal]_
+[1]. **[Create Sign Up Page]**  _Assigned to: [Vishal]_
+
+[2]. **[Create Log In Page]**  _Assigned to: [Vishal]_
 
 # Getting Started with Create React App
 
