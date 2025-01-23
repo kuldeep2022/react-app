@@ -1,8 +1,9 @@
-# Task List
+# Task List [Check the checkbox when you are done with the task]
 
-[1]. **[Create Sign Up Page]**  _Assigned to: [Vishal]_
-
-[2]. **[Create Log In Page]**  _Assigned to: [Vishal]_
+- [ ] [1]. **[Create Sign Up Page]**  Assigned to: [ Vishal ]
+- [ ] [2]. **[Create Log In Page]**  Assigned to: [ Vishal ]
+- [ ] [3]. **[Create Databse Schema Required For Sign Up Page]**  Assigned to: [ Vishal ]
+- [ ] [4]. **[Create Databse Schema Required For Log In Page]**  Assigned to: [ Vishal ]
 
 # Getting Started with Create React App
 
