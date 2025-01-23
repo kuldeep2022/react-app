@@ -2,8 +2,8 @@
 
 - [ ] [1]. **[Create Sign Up Page]**  Assigned to: [ Vishal ]
 - [ ] [2]. **[Create Log In Page]**  Assigned to: [ Vishal ]
-- [ ] [3]. **[Create Databse Schema Required For Sign Up Page]**  Assigned to: [ Vishal ]
-- [ ] [4]. **[Create Databse Schema Required For Log In Page]**  Assigned to: [ Vishal ]
+- [ ] [3]. **[Create Databse Schema Required For Sign Up Page, Use Supabase or Firebase Free Tier]**  Assigned to: [ Vishal ]
+- [ ] [4]. **[Create Databse Schema Required For Log In Page, Use Supabase or Firebase Free Tier]**  Assigned to: [ Vishal ]
 
 # Getting Started with Create React App
 
