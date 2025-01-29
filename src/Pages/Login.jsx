@@ -1,8 +1,11 @@
 import React, {useState} from 'react';
 import { supabase } from '../client';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 export default function Login() {
+
+  let navigate = useNavigate();
+
   const [formData, setFormData] = useState({
     userName:'', email:'',password:'',
   })
@@ -24,6 +27,10 @@ export default function Login() {
         
         if(error) throw error
         console.log(data);
+
+        navigate('/home')
+
+
     } catch (error){
       alert(error)
     }
